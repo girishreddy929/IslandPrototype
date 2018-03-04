@@ -323,8 +323,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movement:
-    maxForwardSpeed: 3
-    maxSidewaysSpeed: 2
+    maxForwardSpeed: 4
+    maxSidewaysSpeed: 3
     maxBackwardsSpeed: 2
     slopeSpeedMultiplier:
       serializedVersion: 2
@@ -423,7 +423,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 392644076}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 51.1, y: 31.118, z: 141.301}
+  m_LocalPosition: {x: 257.4, y: 31.384, z: 391.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2127149372}
