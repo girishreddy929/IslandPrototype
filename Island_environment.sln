@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Island_environment", "Assembly-CSharp-firstpass.csproj", "{E10EFE91-4EFB-0200-D082-1F4713539AEE}"
+EndProject
+Project("{D72A6EF3-770B-3579-BC5D-C4AE853474FE}") = "Island_environment", "Assembly-UnityScript.unityproj", "{E09F820F-FDF8-6062-F615-E6430CCBA2F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E10EFE91-4EFB-0200-D082-1F4713539AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10EFE91-4EFB-0200-D082-1F4713539AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10EFE91-4EFB-0200-D082-1F4713539AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10EFE91-4EFB-0200-D082-1F4713539AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09F820F-FDF8-6062-F615-E6430CCBA2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09F820F-FDF8-6062-F615-E6430CCBA2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09F820F-FDF8-6062-F615-E6430CCBA2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09F820F-FDF8-6062-F615-E6430CCBA2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
